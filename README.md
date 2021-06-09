@@ -30,6 +30,9 @@ me = SoftwareEngineer()
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Handlebar.js-informational?style=flat&logo=Handlebar&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 
 
 
@@ -49,10 +52,6 @@ me = SoftwareEngineer()
 
 
 ## 🗂️ Highlight Projects
-
-<a href="https://github.com/BirdWatcherQuack/BirdWatcher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hakeem235&repo=BirdWatcher&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
 
 <a href="https://github.com/hakeem235/TechBlog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hakeem235&repo=TechBlog&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
