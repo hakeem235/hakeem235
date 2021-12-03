@@ -7,13 +7,10 @@
 # -*- coding: utf-8 -*-
 
 
-const fullStackDeveloper = () => {
-
 const name = 'Ahmed Hakeem'
 const role = 'Full Stack Developer'
 
 return console.log( name + role )
-}
 ```
 
 ## 📝 Blogs
