@@ -30,6 +30,7 @@ return console.log( 'Name: ' name '' + '' 'Role: ' role )
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Pyhton-informational?style=flat&logo=pyhton&logoColor=white&color=6aa6f8)
 
 
 
