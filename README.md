@@ -19,18 +19,29 @@ return console.log( 'Name: ' name '' + '' 'Role: ' role )
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=red)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Bootstrap5-informational?style=flat&logo=bootstrap&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Handlebar.js-informational?style=flat&logo=Handlebar&logoColor=white&color=orange)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+### Tools
+![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+### Fornt End
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/MYSQL-informationalstyle=for-the-badge&logo=mysql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
 
