@@ -4,6 +4,8 @@
 ![header](./header.png)
 
 
+## Contact Info: hakeemkoo@gmail.com
+
 ## Web Development Technologies & Tools
 
 🌐 Web Browsers 
